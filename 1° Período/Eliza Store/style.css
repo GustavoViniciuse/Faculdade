@@ -1,0 +1,191 @@
+body {
+  background-color: #0d1045;
+  overflow-x: hidden;
+}
+
+.logo {
+  max-height: 150px;
+}
+
+#nome {
+  color: #ffa4ad;
+}
+
+
+.custom-bg-color {
+  background-color:  #ffa4ad;
+}
+
+.mycart {
+  width: 2.7em;
+  height: 45px;
+  margin-bottom: 1.2em;
+  margin-left: .5em;
+  background-color:  #ffa4ad;
+  border-radius: 5px;
+  color:  #ffa4ad;
+  padding: 5px;
+}
+
+.red-text {
+  color:  #ffa4ad;
+}
+
+.mycart:hover {
+  background-color: white;
+}
+
+.search-form {
+  margin-top: 0px;
+  height: 60px;
+  color: black;
+  padding-left: 400px;
+  background-color: #0d1045;
+}
+
+.search-input::placeholder {
+  color: black;
+}
+
+input[type="search"] {
+  padding: 5px;
+  border: 0px solid  #ffa4ad;
+  border-radius: 4px;
+  width: 600px;
+  background-color:  #ffffff;
+  color: black;
+}
+
+button[type="submit"] {
+  padding: 5px 10px;
+  background-color:  #ffa4ad;
+  border: none;
+  border-radius: 4px;
+  margin-left: 5px;
+}
+
+button[type="submit"] i {
+  color: black;
+}
+
+button[type="submit"]:hover {
+  background-color: white;
+}
+
+.search2 {
+  width: 5em;
+  height: 2em;
+  background-color:  #ffa4ad;
+  color:  #ffa4ad;
+}
+
+.MostReviwed {
+  width: 25%;
+  float: left;
+}
+
+.carrin {
+  padding-top: 0px;
+  padding-left: 1300px;
+  top: 100px;
+  left: 0px;
+  display: flex;
+}
+
+.custom-color {
+  color: #ffa4ad;
+}
+
+.custom-color2 {
+  color: #0d1045;
+  font-weight: bold;
+}
+
+.custom-color3 {
+  color: #0d1045;
+  list-style: none;
+}
+
+.border-secondary.mt-3 {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.custom-color4 {
+  color: black;
+  font-weight: bold;
+}
+
+.list-group a {
+  text-decoration: none;
+}
+
+.card-bottles {
+  width: 10em;
+}
+
+.description-card {
+  font-size: 12px;
+}
+
+.mostreviewed-img {
+  align-items: center;
+  max-width: 200px;
+}
+
+.border-secondary.mt-3 {
+  background-color: #ffffff;
+}
+
+.input-news {
+  width: 9em;
+  height: 1.5em;
+}
+
+.carousel-item {
+  max-height: 330px;
+}
+
+.quick .most {
+  display: flex;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #ffa4ad;
+  margin-top: 40px;
+}
+
+.icones {
+  display: block;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ffa4ad;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #ffa4ad;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #0d1045;
+}
+
+/* Media Query */
+@media only screen and (max-width: 767px) {
+  #nome {
+    display: none;
+  }
+  .logo{
+    position: center
+    ;
+  }
+  body{
+    overflow-x: hidden;}
+}
