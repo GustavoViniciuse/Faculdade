@@ -12,7 +12,7 @@ Cada lista de exercícios tem como objetivo desenvolver competências específic
 ## Contribuição e Uso
 Estas listas são um recurso valioso tanto para estudantes iniciantes quanto para programadores experientes que desejam revisar ou expandir seus conhecimentos. Sinta-se à vontade para explorar, contribuir com soluções ou utilizar estes exercícios para fins educacionais.
 
----
 
-*Esta coleção foi criada e é mantida por [seu nome], estudante de Ciência da Computação na PUC Minas.*
+
+
 
