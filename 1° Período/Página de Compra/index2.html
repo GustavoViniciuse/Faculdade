@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, user-scalable=0" />
+    <link href="Style2.css" rel="stylesheet"/> 
+    <title>Finalizar Compra</title>
+</head>
+<body>
+  <h1>Opções de Pagamento</h1>
+  
+  <h2>Escolha uma forma de pagamento:</h2>
+  <input type="radio" name="pagamento" value="pix"> Pix<br>
+  <input type="radio" name="pagamento" value="boleto"> Boleto<br>
+  <input type="radio" name="pagamento" value="cartao"> Cartão de Crédito<br>
+  
+  <h2>Endereço de Entrega:</h2>
+  <label for="endereco">Endereço:</label>
+  <input type="text" id="endereco" name="endereco" required><br>
+  
+  <button onclick="finalizarCompra()">Finalizar Compra</button>
+
+ 
+  <script src="app.js"></script>
+</body>
+</html>
