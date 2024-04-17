@@ -8,7 +8,6 @@ Cada lista de exercícios tem como objetivo desenvolver competências específic
 - **Compreensão de sintaxe e semântica** das linguagens C e C++.
 - **Resolução de problemas** através da implementação de algoritmos eficientes.
 - **Boas práticas de programação**, incluindo legibilidade de código e documentação.
-- **Uso avançado de recursos**, como a Standard Template Library (STL) em C++.
 
 ## Contribuição e Uso
 Estas listas são um recurso valioso tanto para estudantes iniciantes quanto para programadores experientes que desejam revisar ou expandir seus conhecimentos. Sinta-se à vontade para explorar, contribuir com soluções ou utilizar estes exercícios para fins educacionais.
