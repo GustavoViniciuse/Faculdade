@@ -1,0 +1,7 @@
+6
+1234567;volks;jetta;2023;200.00;carro;nada
+9076854;bmw;320i;2024;350.00;carro;corre demais velho
+3456985;porshe;panamera;2023;700.00;carro;nenhum
+6708372;Ferrari;Spider;2024;7750.00;carro;muito caro
+1095389;jaguar;typer;2020;400.00;carro;corre muito, bem qeuipado
+7421893;toyota;corrola;2020;120.00;carro;nad
