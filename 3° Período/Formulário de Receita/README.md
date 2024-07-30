@@ -1,7 +1,7 @@
 # Formulário de Submissão de Receitas
 
 ## Descrição
-Este formulário permite aos usuários do site compartilhar suas receitas favoritas com a comunidade. Preencha os campos abaixo com as informações da sua receita e envie para que outros possam desfrutar!
+Este formulário permite aos usuários de um site que está sendo desenvolvido, a compartilhar suas receitas favoritas com a comunidade. Preenchendo os campos com as informações da sua receita e enviando para que outros usuários possam desfrutar!
 
 ## Campos do Formulário
 - **Nome da Receita**: Um título atraente para sua receita.
