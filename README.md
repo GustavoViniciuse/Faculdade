@@ -9,7 +9,7 @@ Este repositório é uma coleção dos meus trabalhos acadêmicos e projetos des
 - **Pesquisa e Inovação em Computação**: Estudos e experimentos voltados para as mais recentes inovações tecnológicas no campo da computação.
 
 ## Habilidades Demonstradas
-- Proficiência em **[inserir linguagens de programação]**.
+- Proficiência em **Linguagem C/C++, JAVA, JAVASCRIPT, ENTRE OUTRAS**.
 - Conhecimento avançado em **desenvolvimento de software** e **lógica de programação**.
 - Experiência prática com **ferramentas de desenvolvimento** e **frameworks modernos**.
 
@@ -19,4 +19,4 @@ O objetivo deste repositório é documentar minha jornada de aprendizado e cresc
 ## Contato
 Para mais informações ou perguntas sobre os projetos, sinta-se à vontade para entrar em contato comigo através da pagina inicial do perfil.
 
-*Este repositório é mantido por [Gustavo Vinicius Elias Souza Silva], estudante de Ciência da Computação na PUC Minas.*
+*Este repositório é mantido por Gustavo Vinicius Elias Souza Silva, estudante de Ciência da Computação na PUC Minas.*
